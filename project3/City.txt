@@ -1,0 +1,25 @@
+Tok / city1.txt
+Yok / city2.txt
+Osa/city3.txt
+Nag/ city4.txt
+Sap/ city5.txt
+Kob/ city6.txt
+Kyo/ city7.txt
+Fuk/ city8.txt
+Kaw/ city9.txt
+Sai/ city10.txt
+Tsu / city11.txt
+Aaa / city12.txt
+Ttt / city13.txt 
+Nnn / city14.txt
+Yyy / city15.txt
+Fff / city16.txt
+Bbb / city17.txt
+Fuu / city18.txt
+Ccc / city19.txt
+Abb / city20.txt
+Tss / city21.txt
+Sss / city22.txt
+Saa / city23.txt
+Tuu / city24.txt
+Zzz / city25.txt
